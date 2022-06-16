@@ -1,5 +1,0 @@
-toon flowcharts (minstens 2) (voor programmeren): 
-- wijzig volume 
-- ...               
-
-rekening houden met unhappy pod (
